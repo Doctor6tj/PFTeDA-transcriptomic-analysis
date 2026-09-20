@@ -85,3 +85,7 @@ The reported primary results comprise four R2/R3 programs, including two R3 prog
 ## Data sources
 
 The analyzed transcriptomic data are available from NCBI GEO: [GSE336490](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE336490), [GSE244107](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244107), [GSE244109](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244109) and [GSE145239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145239). The Hallmark gene-set input is the `MSigDB_Hallmark_2020` collection distributed through [Enrichr](https://maayanlab.cloud/Enrichr/). The reader normalizes the source display label `Pperoxisome` to `Peroxisome`; gene membership is unchanged. Exact download URLs and checksums are in `data/input_manifest.csv`.
+
+## License
+
+The analysis code and accompanying documentation are released under the [MIT License](LICENSE). Source transcriptomic datasets and the external gene-set collection are downloaded from the public providers cited above and remain subject to their respective terms.

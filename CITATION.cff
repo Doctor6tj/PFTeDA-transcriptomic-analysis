@@ -7,3 +7,7 @@ authors:
   - family-names: Liu
     given-names: Junjun
     orcid: "https://orcid.org/0009-0006-7966-6922"
+license: MIT
+repository-code: "https://github.com/Doctor6tj/PFTeDA-transcriptomic-analysis"
+date-released: "2026-09-20"
+abstract: "Reproducible statistical analysis of PFTeDA transcriptomic responses across three independent experimental study families, including primary common-dose analysis, dose-sensitivity analyses and machine-readable reference results."
