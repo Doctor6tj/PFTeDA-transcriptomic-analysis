@@ -1,0 +1,51 @@
+pathway,reproducibility_grade,reproducible_direction,R2,R3,strong_family_count,contributing_families,third_family_same_direction_support,two_contributing_families_R1,FAMILY_1_vote,FAMILY_2_vote,FAMILY_3_vote,FAMILY_1_R1,FAMILY_2_R1,FAMILY_3_R1
+Adipogenesis,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Allograft Rejection,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Androgen Response,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Angiogenesis,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Apical Junction,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Apical Surface,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Apoptosis,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Bile Acid Metabolism,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,DOWN,False,False,False
+Cholesterol Homeostasis,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Coagulation,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,False,False,False
+Complement,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+DNA Repair,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+E2F Targets,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Epithelial Mesenchymal Transition,R3,UP,True,True,2,FAMILY_1|FAMILY_2,True,False,UP,UP,,True,False,False
+Estrogen Response Early,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Estrogen Response Late,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Fatty Acid Metabolism,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,DOWN,False,False,False
+G2-M Checkpoint,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Glycolysis,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Hedgehog Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Hypoxia,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+IL-2/STAT5 Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+IL-6/JAK/STAT3 Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Inflammatory Response,R2,UP,True,False,2,FAMILY_1|FAMILY_2,False,False,UP,UP,,True,False,False
+Interferon Alpha Response,NOT_REPRODUCIBLE,,False,False,0,,False,False,CONFLICT,,,False,False,False
+Interferon Gamma Response,NOT_REPRODUCIBLE,,False,False,0,,False,False,CONFLICT,,,False,False,False
+KRAS Signaling Dn,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+KRAS Signaling Up,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,False,False,False
+Mitotic Spindle,NOT_REPRODUCIBLE,,False,False,0,,False,False,DOWN,,,False,False,False
+Myc Targets V1,R2,UP,True,False,2,FAMILY_1|FAMILY_2,False,False,UP,UP,,True,False,False
+Myc Targets V2,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,False,False,False
+Myogenesis,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Notch Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Oxidative Phosphorylation,FAMILY_DIRECTION_CONFLICT,,False,False,0,,False,False,UP,,DOWN,False,False,False
+PI3K/AKT/mTOR  Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,DOWN,,,False,False,False
+Pancreas Beta Cells,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Peroxisome,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Protein Secretion,NOT_REPRODUCIBLE,,False,False,0,,False,False,DOWN,,,True,False,False
+Reactive Oxygen Species Pathway,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Spermatogenesis,NOT_REPRODUCIBLE,,False,False,0,,False,False,DOWN,,,False,False,False
+TGF-beta Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+TNF-alpha Signaling via NF-kB,R3,UP,True,True,2,FAMILY_1|FAMILY_3,True,False,UP,,UP,True,False,False
+UV Response Dn,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+UV Response Up,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Unfolded Protein Response,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+Wnt-beta Catenin Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+Xenobiotic Metabolism,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+heme Metabolism,NOT_REPRODUCIBLE,,False,False,0,,False,False,,,,False,False,False
+mTORC1 Signaling,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False
+p53 Pathway,NOT_REPRODUCIBLE,,False,False,0,,False,False,UP,,,True,False,False

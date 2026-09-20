@@ -1,0 +1,12 @@
+family_id,pathway,eligible_contexts,strong_contexts,weak_contexts,family_vote,family_weak_support,R1_within_family_consistency,model_restricted,supported_context_heterogeneity,context_states,pathway_display
+FAMILY_1,KRAS Signaling Up,2,1,0,UP,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_UP,KRAS Signaling Up
+FAMILY_1,Mitotic Spindle,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN,Mitotic Spindle
+FAMILY_1,PI3K/AKT/mTOR  Signaling,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN,PI3K/AKT/mTOR  Signaling
+FAMILY_1,Spermatogenesis,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN,Spermatogenesis
+FAMILY_2,Epithelial Mesenchymal Transition,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE,Epithelial Mesenchymal Transition
+FAMILY_2,Inflammatory Response,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE,Inflammatory Response
+FAMILY_2,Myc Targets V1,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE,Myc Targets V1
+FAMILY_3,Bile Acid Metabolism,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE,Bile Acid Metabolism
+FAMILY_3,Fatty Acid Metabolism,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE,Fatty Acid Metabolism
+FAMILY_3,Oxidative Phosphorylation,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE,Oxidative Phosphorylation
+FAMILY_3,TNF-alpha Signaling via NF-kB,2,1,0,UP,,False,True,False,liver_spheroid_24h:STRONG_UP;liver_spheroid_240h:NO_EVIDENCE,TNF-alpha Signaling via NF-kB

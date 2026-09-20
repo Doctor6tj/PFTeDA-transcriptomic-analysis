@@ -1,0 +1,230 @@
+﻿dataset,accession,sample_id,model,treatment,dose_uM,duration_h,replicate,batch,analysis_role,exclusion_reason,matrix_column,source_metadata
+GSE336490,GSM9836209,GSM9836209_HIEC6_Con_1,HIEC6,Vehicle,0.0,24.0,1,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836209_HIEC6_Con_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836210,GSM9836210_HIEC6_Con_2,HIEC6,Vehicle,0.0,24.0,2,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836210_HIEC6_Con_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836211,GSM9836211_HIEC6_Con_3,HIEC6,Vehicle,0.0,24.0,3,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836211_HIEC6_Con_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836233,GSM9836233_HIEC6_PFOA_1,HIEC6,PFOA,112.2,24.0,1,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836233_HIEC6_PFOA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836234,GSM9836234_HIEC6_PFOA_2,HIEC6,PFOA,112.2,24.0,2,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836234_HIEC6_PFOA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836235,GSM9836235_HIEC6_PFOA_3,HIEC6,PFOA,112.2,24.0,3,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836235_HIEC6_PFOA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836236,GSM9836236_HIEC6_PFTeDA_1,HIEC6,PFTeDA,1.647,24.0,1,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836236_HIEC6_PFTeDA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836237,GSM9836237_HIEC6_PFTeDA_2,HIEC6,PFTeDA,1.647,24.0,2,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836237_HIEC6_PFTeDA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836238,GSM9836238_HIEC6_PFTeDA_3,HIEC6,PFTeDA,1.647,24.0,3,R25GIR0643,DISCOVERY_PRIMARY,,GSM9836238_HIEC6_PFTeDA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836239,GSM9836239_HL7702_Con_1,HL7702,Vehicle,0.0,24.0,1,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836239_HL7702_Con_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836240,GSM9836240_HL7702_Con_2,HL7702,Vehicle,0.0,24.0,2,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836240_HL7702_Con_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836241,GSM9836241_HL7702_Con_3,HL7702,Vehicle,0.0,24.0,3,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836241_HL7702_Con_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836263,GSM9836263_HL7702_PFOA_1,HL7702,PFOA,346.0,24.0,1,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836263_HL7702_PFOA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836264,GSM9836264_HL7702_PFOA_2,HL7702,PFOA,346.0,24.0,2,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836264_HL7702_PFOA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836265,GSM9836265_HL7702_PFOA_3,HL7702,PFOA,346.0,24.0,3,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836265_HL7702_PFOA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836266,GSM9836266_HL7702_PFTeDA_1,HL7702,PFTeDA,20.41,24.0,1,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836266_HL7702_PFTeDA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836267,GSM9836267_HL7702_PFTeDA_2,HL7702,PFTeDA,20.41,24.0,2,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836267_HL7702_PFTeDA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836268,GSM9836268_HL7702_PFTeDA_3,HL7702,PFTeDA,20.41,24.0,3,R25GIR0643,SENSITIVITY_CONTEXT_ONLY,HeLa derivative/misidentified; not hepatic evidence,GSM9836268_HL7702_PFTeDA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836269,GSM9836269_BEAS2B_Con_1,BEAS2B,Vehicle,0.0,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836269_BEAS2B_Con_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836270,GSM9836270_BEAS2B_Con_2,BEAS2B,Vehicle,0.0,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836270_BEAS2B_Con_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836271,GSM9836271_BEAS2B_Con_3,BEAS2B,Vehicle,0.0,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836271_BEAS2B_Con_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836293,GSM9836293_BEAS2B_PFOA_1,BEAS2B,PFOA,288.4,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836293_BEAS2B_PFOA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836294,GSM9836294_BEAS2B_PFOA_2,BEAS2B,PFOA,288.4,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836294_BEAS2B_PFOA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836295,GSM9836295_BEAS2B_PFOA_3,BEAS2B,PFOA,288.4,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836295_BEAS2B_PFOA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836296,GSM9836296_BEAS2B_PFTeDA_1,BEAS2B,PFTeDA,6160.0,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836296_BEAS2B_PFTeDA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836297,GSM9836297_BEAS2B_PFTeDA_2,BEAS2B,PFTeDA,6160.0,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836297_BEAS2B_PFTeDA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836298,GSM9836298_BEAS2B_PFTeDA_3,BEAS2B,PFTeDA,6160.0,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836298_BEAS2B_PFTeDA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836299,GSM9836299_HaCaT_Con_1,HaCaT,Vehicle,0.0,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836299_HaCaT_Con_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836300,GSM9836300_HaCaT_Con_2,HaCaT,Vehicle,0.0,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836300_HaCaT_Con_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836301,GSM9836301_HaCaT_Con_3,HaCaT,Vehicle,0.0,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836301_HaCaT_Con_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836323,GSM9836323_HaCaT_PFOA_1,HaCaT,PFOA,38.01,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836323_HaCaT_PFOA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836324,GSM9836324_HaCaT_PFOA_2,HaCaT,PFOA,38.01,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836324_HaCaT_PFOA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836325,GSM9836325_HaCaT_PFOA_3,HaCaT,PFOA,38.01,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836325_HaCaT_PFOA_3,GEO family SOFT + supplementary count file
+GSE336490,GSM9836326,GSM9836326_HaCaT_PFTeDA_1,HaCaT,PFTeDA,20.41,24.0,1,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836326_HaCaT_PFTeDA_1,GEO family SOFT + supplementary count file
+GSE336490,GSM9836327,GSM9836327_HaCaT_PFTeDA_2,HaCaT,PFTeDA,20.41,24.0,2,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836327_HaCaT_PFTeDA_2,GEO family SOFT + supplementary count file
+GSE336490,GSM9836328,GSM9836328_HaCaT_PFTeDA_3,HaCaT,PFTeDA,20.41,24.0,3,R25GeR3928,DISCOVERY_PRIMARY,,GSM9836328_HaCaT_PFTeDA_3,GEO family SOFT + supplementary count file
+GSE244109,GSM7807139,CardioPlate01_G13,iPSC-CM,PFOA,10.0,24.0,1,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_G13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807150,CardioPlate01_H13,iPSC-CM,PFOA,1.0,24.0,1,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_H13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807160,CardioPlate01_I13,iPSC-CM,PFOA,0.1,24.0,1,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_I13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807238,CardioPlate02_G13,iPSC-CM,PFOA,10.0,24.0,2,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_G13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807247,CardioPlate02_H13,iPSC-CM,PFOA,1.0,24.0,2,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_H13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807258,CardioPlate02_I13,iPSC-CM,PFOA,0.1,24.0,2,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_I13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807147,CardioPlate01_G21,iPSC-CM,PFTeDA,10.0,24.0,1,CardioPlate01,VALIDATION,,CardioPlate01_G21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807157,CardioPlate01_H21,iPSC-CM,PFTeDA,1.0,24.0,1,CardioPlate01,VALIDATION,,CardioPlate01_H21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807167,CardioPlate01_I21,iPSC-CM,PFTeDA,0.1,24.0,1,CardioPlate01,VALIDATION,,CardioPlate01_I21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807244,CardioPlate02_G21,iPSC-CM,PFTeDA,10.0,24.0,2,CardioPlate02,VALIDATION,,CardioPlate02_G21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807255,CardioPlate02_H21,iPSC-CM,PFTeDA,1.0,24.0,2,CardioPlate02,VALIDATION,,CardioPlate02_H21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807263,CardioPlate02_I21,iPSC-CM,PFTeDA,0.1,24.0,2,CardioPlate02,VALIDATION,,CardioPlate02_I21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807202,CardioPlate01_M16,iPSC-CM,Vehicle,0.0,24.0,1,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M16,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807203,CardioPlate01_M18,iPSC-CM,Vehicle,0.0,24.0,3,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M18,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807204,CardioPlate01_M19,iPSC-CM,Vehicle,0.0,24.0,4,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M19,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807205,CardioPlate01_M20,iPSC-CM,Vehicle,0.0,24.0,5,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M20,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807206,CardioPlate01_M21,iPSC-CM,Vehicle,0.0,24.0,6,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807207,CardioPlate01_M22,iPSC-CM,Vehicle,0.0,24.0,7,CardioPlate01,COMPARATOR_OR_CONTROL,,CardioPlate01_M22,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807298,CardioPlate02_M16,iPSC-CM,Vehicle,0.0,24.0,8,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M16,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807299,CardioPlate02_M17,iPSC-CM,Vehicle,0.0,24.0,9,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M17,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807300,CardioPlate02_M18,iPSC-CM,Vehicle,0.0,24.0,10,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M18,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807301,CardioPlate02_M19,iPSC-CM,Vehicle,0.0,24.0,11,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M19,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807302,CardioPlate02_M20,iPSC-CM,Vehicle,0.0,24.0,12,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M20,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807303,CardioPlate02_M21,iPSC-CM,Vehicle,0.0,24.0,13,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244109,GSM7807304,CardioPlate02_M22,iPSC-CM,Vehicle,0.0,24.0,14,CardioPlate02,COMPARATOR_OR_CONTROL,,CardioPlate02_M22,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806850,HepaPlate01_G02,iPSC-Hep,PFOA,10.0,48.0,1,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_G02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806858,HepaPlate01_G10,iPSC-Hep,PFTeDA,10.0,48.0,1,HepaPlate01,VALIDATION,,HepaPlate01_G10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806861,HepaPlate01_G13,iPSC-Hep,PFOA,10.0,48.0,2,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_G13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806869,HepaPlate01_G21,iPSC-Hep,PFTeDA,10.0,48.0,2,HepaPlate01,VALIDATION,,HepaPlate01_G21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806872,HepaPlate01_H02,iPSC-Hep,PFOA,1.0,48.0,1,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_H02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806880,HepaPlate01_H10,iPSC-Hep,PFTeDA,1.0,48.0,1,HepaPlate01,VALIDATION,,HepaPlate01_H10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806883,HepaPlate01_H13,iPSC-Hep,PFOA,1.0,48.0,2,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_H13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806891,HepaPlate01_H21,iPSC-Hep,PFTeDA,1.0,48.0,2,HepaPlate01,VALIDATION,,HepaPlate01_H21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806894,HepaPlate01_I02,iPSC-Hep,PFOA,0.1,48.0,1,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_I02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806902,HepaPlate01_I10,iPSC-Hep,PFTeDA,0.1,48.0,1,HepaPlate01,VALIDATION,,HepaPlate01_I10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806905,HepaPlate01_I13,iPSC-Hep,PFOA,0.1,48.0,2,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_I13,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806913,HepaPlate01_I21,iPSC-Hep,PFTeDA,0.1,48.0,2,HepaPlate01,VALIDATION,,HepaPlate01_I21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806982,HepaPlate01_M03,iPSC-Hep,Vehicle,0.0,48.0,1,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M03,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806983,HepaPlate01_M04,iPSC-Hep,Vehicle,0.0,48.0,2,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M04,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806984,HepaPlate01_M05,iPSC-Hep,Vehicle,0.0,48.0,3,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M05,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806985,HepaPlate01_M06,iPSC-Hep,Vehicle,0.0,48.0,4,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M06,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806986,HepaPlate01_M07,iPSC-Hep,Vehicle,0.0,48.0,5,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M07,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806987,HepaPlate01_M08,iPSC-Hep,Vehicle,0.0,48.0,6,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M08,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806988,HepaPlate01_M09,iPSC-Hep,Vehicle,0.0,48.0,7,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M09,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806989,HepaPlate01_M16,iPSC-Hep,Vehicle,0.0,48.0,8,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M16,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806990,HepaPlate01_M17,iPSC-Hep,Vehicle,0.0,48.0,9,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M17,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806991,HepaPlate01_M18,iPSC-Hep,Vehicle,0.0,48.0,10,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M18,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806992,HepaPlate01_M19,iPSC-Hep,Vehicle,0.0,48.0,11,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M19,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806993,HepaPlate01_M20,iPSC-Hep,Vehicle,0.0,48.0,12,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M20,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806994,HepaPlate01_M21,iPSC-Hep,Vehicle,0.0,48.0,13,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M21,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7806995,HepaPlate01_M22,iPSC-Hep,Vehicle,0.0,48.0,14,HepaPlate01,COMPARATOR_OR_CONTROL,,HepaPlate01_M22,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807029,HepaPlate02_G02,iPSC-Hep,PFOA,10.0,48.0,3,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_G02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807037,HepaPlate02_G10,iPSC-Hep,PFTeDA,10.0,48.0,3,HepaPlate02,VALIDATION,,HepaPlate02_G10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807040,HepaPlate02_H02,iPSC-Hep,PFOA,1.0,48.0,3,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_H02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807048,HepaPlate02_H10,iPSC-Hep,PFTeDA,1.0,48.0,3,HepaPlate02,VALIDATION,,HepaPlate02_H10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807051,HepaPlate02_I02,iPSC-Hep,PFOA,0.1,48.0,3,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_I02,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807059,HepaPlate02_I10,iPSC-Hep,PFTeDA,0.1,48.0,3,HepaPlate02,VALIDATION,,HepaPlate02_I10,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807095,HepaPlate02_M03,iPSC-Hep,Vehicle,0.0,48.0,15,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M03,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807096,HepaPlate02_M04,iPSC-Hep,Vehicle,0.0,48.0,16,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M04,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807097,HepaPlate02_M05,iPSC-Hep,Vehicle,0.0,48.0,17,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M05,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807098,HepaPlate02_M06,iPSC-Hep,Vehicle,0.0,48.0,18,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M06,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807099,HepaPlate02_M07,iPSC-Hep,Vehicle,0.0,48.0,19,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M07,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807100,HepaPlate02_M08,iPSC-Hep,Vehicle,0.0,48.0,20,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M08,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE244107,GSM7807101,HepaPlate02_M09,iPSC-Hep,Vehicle,0.0,48.0,21,HepaPlate02,COMPARATOR_OR_CONTROL,,HepaPlate02_M09,GEO sample hash + normalized count matrix; plate-centered to matched VEH
+GSE145239,GSM4309198,b2_DMSO_0_401,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_401,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309199,b2_DMSO_0_409,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_409,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309200,b2_DMSO_0_417,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_417,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309201,b2_DMSO_0_425,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_425,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309202,b2_DMSO_0_433,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_433,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309203,b2_DMSO_0_441,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_441,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309204,b2_DMSO_0_449,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_449,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309205,b2_DMSO_0_457,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_457,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309206,b2_DMSO_0_521,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_521,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309207,b2_DMSO_0_537,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_537,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309208,b2_DMSO_0_545,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_545,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309209,b2_DMSO_0_553,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_553,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309210,b2_DMSO_0_561,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_561,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309211,b2_DMSO_0_569,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_569,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309212,b2_DMSO_0_593,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_593,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309213,b2_DMSO_0_601,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_601,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309214,b2_DMSO_0_609,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_609,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309215,b2_DMSO_0_617,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_617,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309216,b2_DMSO_0_625,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_625,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309217,b2_DMSO_0_649,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_649,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309218,b2_DMSO_0_657,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_657,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309219,b2_DMSO_0_665,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_665,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309220,b2_DMSO_0_689,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_689,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309221,b2_DMSO_0_697,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_697,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309222,b2_DMSO_0_705,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_705,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309223,b2_DMSO_0_713,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_713,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309224,b2_DMSO_0_721,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_721,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309225,b2_DMSO_0_729,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_729,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309226,b2_DMSO_0_737,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_737,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309227,b2_DMSO_0_745,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_745,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309228,b2_DMSO_0_753,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_753,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309229,b2_DMSO_0_761,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl01,MATCHED_CONTROL,,b2_DMSO_0_761,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309230,b2_DMSO_0.00017_393,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl017,MATCHED_CONTROL,,b2_DMSO_0.00017_393,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309231,b2_DMSO_0.00017_489,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl017,MATCHED_CONTROL,,b2_DMSO_0.00017_489,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309232,b2_DMSO_0.00017_585,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl017,MATCHED_CONTROL,,b2_DMSO_0.00017_585,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309233,b2_DMSO_3e-04_385,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl03,MATCHED_CONTROL,,b2_DMSO_3e-04_385,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309234,b2_DMSO_3e-04_481,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl03,MATCHED_CONTROL,,b2_DMSO_3e-04_481,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309476,b2_PFTeDA_0.06_431,primary human liver spheroid,PFTeDA,0.06,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.06_431,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309477,b2_PFTeDA_0.06_527,primary human liver spheroid,PFTeDA,0.06,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.06_527,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309478,b2_PFTeDA_0.06_623,primary human liver spheroid,PFTeDA,0.06,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.06_623,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309479,b2_PFTeDA_0.06_719,primary human liver spheroid,PFTeDA,0.06,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.06_719,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309480,b2_PFTeDA_0.67_519,primary human liver spheroid,PFTeDA,0.67,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.67_519,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309481,b2_PFTeDA_0.67_615,primary human liver spheroid,PFTeDA,0.67,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.67_615,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309482,b2_PFTeDA_0.67_711,primary human liver spheroid,PFTeDA,0.67,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_0.67_711,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309483,b2_PFTeDA_17_399,primary human liver spheroid,PFTeDA,17.0,24.0,,batch2:ctrl017,VALIDATION,,b2_PFTeDA_17_399,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309484,b2_PFTeDA_17_495,primary human liver spheroid,PFTeDA,17.0,24.0,,batch2:ctrl017,VALIDATION,,b2_PFTeDA_17_495,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309485,b2_PFTeDA_17_591,primary human liver spheroid,PFTeDA,17.0,24.0,,batch2:ctrl017,VALIDATION,,b2_PFTeDA_17_591,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309486,b2_PFTeDA_17_687,primary human liver spheroid,PFTeDA,17.0,24.0,,batch2:ctrl017,VALIDATION,,b2_PFTeDA_17_687,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309487,b2_PFTeDA_3.35_415,primary human liver spheroid,PFTeDA,3.35,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_3.35_415,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309488,b2_PFTeDA_3.35_511,primary human liver spheroid,PFTeDA,3.35,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_3.35_511,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309489,b2_PFTeDA_3.35_607,primary human liver spheroid,PFTeDA,3.35,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_3.35_607,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309490,b2_PFTeDA_3.35_703,primary human liver spheroid,PFTeDA,3.35,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_3.35_703,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309491,b2_PFTeDA_33_391,primary human liver spheroid,PFTeDA,33.0,24.0,,batch2:ctrl03,VALIDATION,,b2_PFTeDA_33_391,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309492,b2_PFTeDA_33_487,primary human liver spheroid,PFTeDA,33.0,24.0,,batch2:ctrl03,VALIDATION,,b2_PFTeDA_33_487,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309493,b2_PFTeDA_33_583,primary human liver spheroid,PFTeDA,33.0,24.0,,batch2:ctrl03,VALIDATION,,b2_PFTeDA_33_583,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309494,b2_PFTeDA_6.7_407,primary human liver spheroid,PFTeDA,6.7,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_6.7_407,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309495,b2_PFTeDA_6.7_503,primary human liver spheroid,PFTeDA,6.7,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_6.7_503,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309496,b2_PFTeDA_6.7_695,primary human liver spheroid,PFTeDA,6.7,24.0,,batch2:ctrl01,VALIDATION,,b2_PFTeDA_6.7_695,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309510,b2_DMSO_0.00017_990,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl017,MATCHED_CONTROL,,b2_DMSO_0.00017_990,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309511,b2_DMSO_0.00017_994,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl017,MATCHED_CONTROL,,b2_DMSO_0.00017_994,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309512,b2_DMSO_3e-04_995,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl03,MATCHED_CONTROL,,b2_DMSO_3e-04_995,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309513,b2_DMSO_3e-04_991,primary human liver spheroid,Vehicle,0.0,24.0,,batch2:ctrl03,MATCHED_CONTROL,,b2_DMSO_3e-04_991,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309793,b4_DMSO_0_401,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_401,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309794,b4_DMSO_0_409,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_409,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309795,b4_DMSO_0_417,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_417,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309796,b4_DMSO_0_425,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_425,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309797,b4_DMSO_0_433,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_433,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309798,b4_DMSO_0_441,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_441,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309799,b4_DMSO_0_449,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_449,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309800,b4_DMSO_0_457,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_457,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309801,b4_DMSO_0_465,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_465,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309802,b4_DMSO_0_473,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_473,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309803,b4_DMSO_0_497,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_497,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309804,b4_DMSO_0_505,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_505,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309805,b4_DMSO_0_513,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_513,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309806,b4_DMSO_0_521,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_521,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309807,b4_DMSO_0_529,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_529,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309808,b4_DMSO_0_537,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_537,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309809,b4_DMSO_0_545,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_545,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309810,b4_DMSO_0_553,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_553,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309811,b4_DMSO_0_561,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_561,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309812,b4_DMSO_0_569,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_569,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309813,b4_DMSO_0_593,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_593,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309814,b4_DMSO_0_601,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_601,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309815,b4_DMSO_0_609,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_609,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309816,b4_DMSO_0_617,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_617,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309817,b4_DMSO_0_625,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_625,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309818,b4_DMSO_0_633,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_633,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309819,b4_DMSO_0_641,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_641,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309820,b4_DMSO_0_649,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_649,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309821,b4_DMSO_0_657,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_657,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309822,b4_DMSO_0_665,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_665,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309823,b4_DMSO_0_689,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_689,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309824,b4_DMSO_0_697,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_697,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309825,b4_DMSO_0_705,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_705,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309826,b4_DMSO_0_713,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_713,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309827,b4_DMSO_0_721,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_721,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309828,b4_DMSO_0_729,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_729,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309829,b4_DMSO_0_737,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_737,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309830,b4_DMSO_0_745,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_745,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309831,b4_DMSO_0_753,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_753,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309832,b4_DMSO_0_761,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl01,MATCHED_CONTROL,,b4_DMSO_0_761,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309833,b4_DMSO_0.00017_393,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl017,MATCHED_CONTROL,,b4_DMSO_0.00017_393,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309834,b4_DMSO_0.00017_489,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl017,MATCHED_CONTROL,,b4_DMSO_0.00017_489,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309835,b4_DMSO_0.00017_585,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl017,MATCHED_CONTROL,,b4_DMSO_0.00017_585,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309836,b4_DMSO_0.00017_681,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl017,MATCHED_CONTROL,,b4_DMSO_0.00017_681,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309837,b4_DMSO_3e-04_385,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl03,MATCHED_CONTROL,,b4_DMSO_3e-04_385,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309838,b4_DMSO_3e-04_481,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl03,MATCHED_CONTROL,,b4_DMSO_3e-04_481,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309839,b4_DMSO_3e-04_577,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl03,MATCHED_CONTROL,,b4_DMSO_3e-04_577,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4309840,b4_DMSO_3e-04_673,primary human liver spheroid,Vehicle,0.0,240.0,,batch4:ctrl03,MATCHED_CONTROL,,b4_DMSO_3e-04_673,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310056,b4_PFTeDA_0.06_431,primary human liver spheroid,PFTeDA,0.06,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.06_431,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310057,b4_PFTeDA_0.06_527,primary human liver spheroid,PFTeDA,0.06,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.06_527,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310058,b4_PFTeDA_0.06_623,primary human liver spheroid,PFTeDA,0.06,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.06_623,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310059,b4_PFTeDA_0.06_719,primary human liver spheroid,PFTeDA,0.06,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.06_719,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310060,b4_PFTeDA_0.67_519,primary human liver spheroid,PFTeDA,0.67,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.67_519,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310061,b4_PFTeDA_0.67_615,primary human liver spheroid,PFTeDA,0.67,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.67_615,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310062,b4_PFTeDA_0.67_711,primary human liver spheroid,PFTeDA,0.67,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_0.67_711,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310063,b4_PFTeDA_17_399,primary human liver spheroid,PFTeDA,17.0,240.0,,batch4:ctrl017,VALIDATION,,b4_PFTeDA_17_399,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310064,b4_PFTeDA_17_495,primary human liver spheroid,PFTeDA,17.0,240.0,,batch4:ctrl017,VALIDATION,,b4_PFTeDA_17_495,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310065,b4_PFTeDA_17_591,primary human liver spheroid,PFTeDA,17.0,240.0,,batch4:ctrl017,VALIDATION,,b4_PFTeDA_17_591,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310066,b4_PFTeDA_17_687,primary human liver spheroid,PFTeDA,17.0,240.0,,batch4:ctrl017,VALIDATION,,b4_PFTeDA_17_687,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310067,b4_PFTeDA_3.35_415,primary human liver spheroid,PFTeDA,3.35,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_3.35_415,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310068,b4_PFTeDA_3.35_511,primary human liver spheroid,PFTeDA,3.35,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_3.35_511,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310069,b4_PFTeDA_3.35_607,primary human liver spheroid,PFTeDA,3.35,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_3.35_607,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310070,b4_PFTeDA_3.35_703,primary human liver spheroid,PFTeDA,3.35,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_3.35_703,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310071,b4_PFTeDA_6.7_407,primary human liver spheroid,PFTeDA,6.7,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_6.7_407,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310072,b4_PFTeDA_6.7_503,primary human liver spheroid,PFTeDA,6.7,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_6.7_503,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310073,b4_PFTeDA_6.7_599,primary human liver spheroid,PFTeDA,6.7,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_6.7_599,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03
+GSE145239,GSM4310074,b4_PFTeDA_6.7_695,primary human liver spheroid,PFTeDA,6.7,240.0,,batch4:ctrl01,VALIDATION,,b4_PFTeDA_6.7_695,GEO SOFT + raw TempO-Seq counts; control type matched to exp01/exp017/exp03

@@ -1,0 +1,7 @@
+﻿finding_id,finding,value,unit,source,interpretation_boundary
+N01,iPSC-CM had zero strong primary PFTeDA Hallmark programs under the predefined joint camera/singscore criterion.,0,strong programs,Table S3,Does not prove absence of biological effect.
+N02,The 240 h liver-spheroid context had zero strong primary PFTeDA Hallmark programs.,0,strong programs,Table S3,Does not prove absence of biological effect; duration/batch-context differences remain.
+N03,iPSC-Hep had zero direct-supported PFTeDA-PFOA differential programs.,0,direct-supported programs,Table S7,No difference was established under the predefined criterion; equivalence was not tested.
+N04,Only four of fifty tested Hallmark programs met R2 or R3 reproducibility.,4,R2/R3 programs of 50 tested,Tables S5 and S6,Non-reproducible programs may remain context-specific or underpowered.
+N05,11 family-program records were model-restricted without formal heterogeneity support.,11,family-program records,Table S11,A significant-versus-nonsignificant pattern is not heterogeneity.
+N06,Oxidative Phosphorylation had a family-level direction conflict: Family 1 voted UP and Family 3 voted DOWN.,1,family-direction-conflict program,Tables S4 and S5,This program has no coherent cross-family reproducible direction and must not be summarized as a shared PFTeDA response.

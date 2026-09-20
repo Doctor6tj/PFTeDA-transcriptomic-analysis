@@ -1,0 +1,151 @@
+family_id,pathway,eligible_contexts,strong_contexts,weak_contexts,family_vote,family_weak_support,R1_within_family_consistency,model_restricted,supported_context_heterogeneity,context_states
+FAMILY_1,Adipogenesis,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Allograft Rejection,2,2,0,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_1,Androgen Response,2,0,0,,,False,False,False,HIEC6:NO_EVIDENCE;HaCaT:NO_EVIDENCE
+FAMILY_1,Angiogenesis,2,2,0,UP,,True,False,True,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_1,Apical Junction,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Apical Surface,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,Apoptosis,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,Bile Acid Metabolism,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Cholesterol Homeostasis,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,Coagulation,2,1,0,UP,,False,False,True,HIEC6:NO_EVIDENCE;HaCaT:STRONG_UP
+FAMILY_1,Complement,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,DNA Repair,2,0,0,,,False,False,False,HIEC6:NO_EVIDENCE;HaCaT:NO_EVIDENCE
+FAMILY_1,E2F Targets,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Epithelial Mesenchymal Transition,2,2,0,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_1,Estrogen Response Early,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,Estrogen Response Late,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,Fatty Acid Metabolism,2,0,1,,UP,False,False,False,HIEC6:NO_EVIDENCE;HaCaT:WEAK_UP
+FAMILY_1,G2-M Checkpoint,2,0,2,,,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_DOWN
+FAMILY_1,Glycolysis,2,1,1,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:WEAK_UP
+FAMILY_1,Hedgehog Signaling,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Hypoxia,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,IL-2/STAT5 Signaling,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,IL-6/JAK/STAT3 Signaling,2,1,1,UP,,True,False,True,HIEC6:STRONG_UP;HaCaT:WEAK_UP
+FAMILY_1,Inflammatory Response,2,1,1,UP,,True,False,True,HIEC6:STRONG_UP;HaCaT:WEAK_UP
+FAMILY_1,Interferon Alpha Response,2,2,0,CONFLICT,,False,False,True,HIEC6:STRONG_UP;HaCaT:STRONG_DOWN
+FAMILY_1,Interferon Gamma Response,2,2,0,CONFLICT,,False,False,True,HIEC6:STRONG_UP;HaCaT:STRONG_DOWN
+FAMILY_1,KRAS Signaling Dn,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,KRAS Signaling Up,2,1,0,UP,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_UP
+FAMILY_1,Mitotic Spindle,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN
+FAMILY_1,Myc Targets V1,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,Myc Targets V2,2,1,0,UP,,False,False,True,HIEC6:NO_EVIDENCE;HaCaT:STRONG_UP
+FAMILY_1,Myogenesis,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Notch Signaling,2,0,2,,,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_DOWN
+FAMILY_1,Oxidative Phosphorylation,2,1,0,UP,,False,False,True,HIEC6:NO_EVIDENCE;HaCaT:STRONG_UP
+FAMILY_1,PI3K/AKT/mTOR  Signaling,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN
+FAMILY_1,Pancreas Beta Cells,2,0,2,,,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_DOWN
+FAMILY_1,Peroxisome,2,0,0,,,False,False,False,HIEC6:NO_EVIDENCE;HaCaT:NO_EVIDENCE
+FAMILY_1,Protein Secretion,2,1,1,DOWN,,True,False,False,HIEC6:WEAK_DOWN;HaCaT:STRONG_DOWN
+FAMILY_1,Reactive Oxygen Species Pathway,2,0,2,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_UP
+FAMILY_1,Spermatogenesis,2,1,0,DOWN,,False,True,False,HIEC6:NO_EVIDENCE;HaCaT:STRONG_DOWN
+FAMILY_1,TGF-beta Signaling,2,0,2,,,False,False,False,HIEC6:WEAK_UP;HaCaT:WEAK_DOWN
+FAMILY_1,TNF-alpha Signaling via NF-kB,2,2,0,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_1,UV Response Dn,2,0,1,,DOWN,False,False,False,HIEC6:NO_EVIDENCE;HaCaT:WEAK_DOWN
+FAMILY_1,UV Response Up,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Unfolded Protein Response,2,2,0,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_1,Wnt-beta Catenin Signaling,2,0,1,,UP,False,False,False,HIEC6:WEAK_UP;HaCaT:NO_EVIDENCE
+FAMILY_1,Xenobiotic Metabolism,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,heme Metabolism,2,0,2,,DOWN,False,False,False,HIEC6:WEAK_DOWN;HaCaT:WEAK_DOWN
+FAMILY_1,mTORC1 Signaling,2,1,1,UP,,True,False,False,HIEC6:WEAK_UP;HaCaT:STRONG_UP
+FAMILY_1,p53 Pathway,2,2,0,UP,,True,False,False,HIEC6:STRONG_UP;HaCaT:STRONG_UP
+FAMILY_2,Adipogenesis,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Allograft Rejection,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Androgen Response,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Angiogenesis,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Apical Junction,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Apical Surface,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Apoptosis,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Bile Acid Metabolism,2,0,1,,DOWN,False,False,False,iPSC-Hep:WEAK_DOWN;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Cholesterol Homeostasis,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Coagulation,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Complement,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,DNA Repair,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,E2F Targets,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Epithelial Mesenchymal Transition,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Estrogen Response Early,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Estrogen Response Late,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Fatty Acid Metabolism,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,G2-M Checkpoint,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Glycolysis,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Hedgehog Signaling,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Hypoxia,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,IL-2/STAT5 Signaling,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,IL-6/JAK/STAT3 Signaling,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Inflammatory Response,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Interferon Alpha Response,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Interferon Gamma Response,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,KRAS Signaling Dn,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,KRAS Signaling Up,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Mitotic Spindle,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Myc Targets V1,2,1,0,UP,,False,True,False,iPSC-Hep:STRONG_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Myc Targets V2,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Myogenesis,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Notch Signaling,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Oxidative Phosphorylation,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,PI3K/AKT/mTOR  Signaling,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Pancreas Beta Cells,2,0,1,,DOWN,False,False,False,iPSC-Hep:WEAK_DOWN;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Peroxisome,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Protein Secretion,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Reactive Oxygen Species Pathway,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Spermatogenesis,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,TGF-beta Signaling,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,TNF-alpha Signaling via NF-kB,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,UV Response Dn,2,0,1,,UP,False,False,False,iPSC-Hep:WEAK_UP;iPSC-CM:NO_EVIDENCE
+FAMILY_2,UV Response Up,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Unfolded Protein Response,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Wnt-beta Catenin Signaling,2,0,1,,DOWN,False,False,False,iPSC-Hep:WEAK_DOWN;iPSC-CM:NO_EVIDENCE
+FAMILY_2,Xenobiotic Metabolism,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,heme Metabolism,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,mTORC1 Signaling,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_2,p53 Pathway,2,0,0,,,False,False,False,iPSC-Hep:NO_EVIDENCE;iPSC-CM:NO_EVIDENCE
+FAMILY_3,Adipogenesis,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Allograft Rejection,2,0,1,,DOWN,False,False,False,liver_spheroid_24h:WEAK_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Androgen Response,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Angiogenesis,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Apical Junction,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Apical Surface,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Apoptosis,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Bile Acid Metabolism,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Cholesterol Homeostasis,2,0,1,,DOWN,False,False,False,liver_spheroid_24h:WEAK_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Coagulation,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Complement,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,DNA Repair,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,E2F Targets,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Epithelial Mesenchymal Transition,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Estrogen Response Early,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Estrogen Response Late,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Fatty Acid Metabolism,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,G2-M Checkpoint,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Glycolysis,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Hedgehog Signaling,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Hypoxia,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,IL-2/STAT5 Signaling,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,IL-6/JAK/STAT3 Signaling,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Inflammatory Response,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Interferon Alpha Response,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Interferon Gamma Response,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,KRAS Signaling Dn,1,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NOT_ASSESSED
+FAMILY_3,KRAS Signaling Up,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Mitotic Spindle,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Myc Targets V1,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Myc Targets V2,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Myogenesis,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Notch Signaling,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Oxidative Phosphorylation,2,1,0,DOWN,,False,True,False,liver_spheroid_24h:STRONG_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,PI3K/AKT/mTOR  Signaling,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Pancreas Beta Cells,0,0,0,,,False,False,False,liver_spheroid_24h:NOT_ASSESSED;liver_spheroid_240h:NOT_ASSESSED
+FAMILY_3,Peroxisome,2,0,1,,DOWN,False,False,False,liver_spheroid_24h:WEAK_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Protein Secretion,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Reactive Oxygen Species Pathway,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Spermatogenesis,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,TGF-beta Signaling,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,TNF-alpha Signaling via NF-kB,2,1,0,UP,,False,True,False,liver_spheroid_24h:STRONG_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,UV Response Dn,2,0,1,,UP,False,False,False,liver_spheroid_24h:WEAK_UP;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,UV Response Up,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Unfolded Protein Response,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Wnt-beta Catenin Signaling,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,Xenobiotic Metabolism,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,heme Metabolism,2,0,1,,DOWN,False,False,False,liver_spheroid_24h:WEAK_DOWN;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,mTORC1 Signaling,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE
+FAMILY_3,p53 Pathway,2,0,0,,,False,False,False,liver_spheroid_24h:NO_EVIDENCE;liver_spheroid_240h:NO_EVIDENCE

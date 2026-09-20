@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this software archive when using this analysis."
+title: "PFTeDA transcriptomic analysis across three independent study families"
+type: software
+version: 1.2.0
+authors:
+  - family-names: Liu
+    given-names: Junjun
+    orcid: "https://orcid.org/0009-0006-7966-6922"

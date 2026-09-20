@@ -1,0 +1,5 @@
+pathway,reproducibility_grade,reproducible_direction,R2,R3,strong_family_count,contributing_families,third_family_same_direction_support,two_contributing_families_R1,FAMILY_1_vote,FAMILY_2_vote,FAMILY_3_vote,FAMILY_1_R1,FAMILY_2_R1,FAMILY_3_R1
+Epithelial Mesenchymal Transition,R3,UP,True,True,2,FAMILY_1|FAMILY_2,True,False,UP,UP,,True,False,False
+Inflammatory Response,R2,UP,True,False,2,FAMILY_1|FAMILY_2,False,False,UP,UP,,True,False,False
+Myc Targets V1,R2,UP,True,False,2,FAMILY_1|FAMILY_2,False,False,UP,UP,,True,False,False
+TNF-alpha Signaling via NF-kB,R3,UP,True,True,2,FAMILY_1|FAMILY_3,True,False,UP,,UP,True,False,False

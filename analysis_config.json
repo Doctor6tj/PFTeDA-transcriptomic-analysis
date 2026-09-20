@@ -1,0 +1,35 @@
+{
+  "project_id": "PFTeDA_transcriptomics",
+  "project_root": ".",
+  "analysis_version": "1.2.0",
+  "independent_family_count": 3,
+  "primary_family1_contexts": [
+    "HIEC6",
+    "HaCaT"
+  ],
+  "family2_accessions": [
+    "GSE244107",
+    "GSE244109"
+  ],
+  "family3_accession": "GSE145239",
+  "beas_role": "SUPPLEMENTARY_SENSITIVITY_REAL_REPORTED_VALUE_VALIDITY_UNRESOLVED",
+  "hl7702_role": "EXPLORATORY_MISIDENTIFIED_CELL_LINE_CONTEXT",
+  "pfoa_role": "WITHIN_STUDY_BENCHMARK_COMPARATOR",
+  "thresholds": {
+    "gene_fdr": 0.05,
+    "gene_abs_log2fc": 0.5849625007211562,
+    "camera_strong_fdr": 0.05,
+    "pathway_weak_fdr": 0.1,
+    "score_fdr": 0.1,
+    "score_abs_standardized_effect": 0.5,
+    "min_pathway_tested_genes": 10,
+    "min_pathway_coverage_fraction": 0.1,
+    "camera_inter_gene_correlation": 0.01
+  },
+  "primary_gene_set_collection": "MSigDB_Hallmark_2020",
+  "primary_pathway_method": "camera",
+  "sensitivity_pathway_method": "singscore_1.30.0",
+  "multiple_testing": "Benjamini-Hochberg within each prespecified contrast and collection",
+  "default_cross_family_method": "provenance-aware signed family evidence; no pooled meta-analysis",
+  "random_seed": 20260919
+}

@@ -1,0 +1,9 @@
+path,source_url,sha256,bytes
+data/geo/GSE336490/GSE336490_RAW.tar,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE336nnn/GSE336490/suppl/GSE336490_RAW.tar,b8ca797ebc63391dee9d7f29d8852feac7db78445b8f2a92f78ff02aa06dbd01,25610240
+data/geo/GSE244109/GSE244109_iCM_normcounts.csv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244109/suppl/GSE244109_iCM_normcounts.csv.gz,38eef1086cae7a501b0ab39d6181f0283d475c615154ab44127a5c4ba881c06d,12152668
+data/geo/GSE244109/GSE244109_iCM_hash.csv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244109/suppl/GSE244109_iCM_hash.csv.gz,a3e462ff8c834562715f03c8c30052477944382e4f0412d800188a6fcf337bcf,6229
+data/geo/GSE244107/GSE244107_iHep_normcounts.csv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244107/suppl/GSE244107_iHep_normcounts.csv.gz,cf0c157557a0eff6386848d1f509cf4dc3919a142cec04bc40604eaedca8f036,15529145
+data/geo/GSE244107/GSE244107_iHep_hash.csv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244107/suppl/GSE244107_iHep_hash.csv.gz,751d6d84d5137c7e23033576dad480d822338938480ef3cb9da53a94be826f7a,9937
+data/geo/GSE145239/GSE145239_rawCountsBatch2wID.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE145nnn/GSE145239/suppl/GSE145239_rawCountsBatch2wID.txt.gz,5ebb3c617260969cb5525b63f1157088c225b52b870abe29c131fd07e452bb3b,1150794
+data/geo/GSE145239/GSE145239_rawCountsBatch4wID.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE145nnn/GSE145239/suppl/GSE145239_rawCountsBatch4wID.txt.gz,ba50f0c059eea8a995c0acb8eeb296bd3140a5501de05e3119aa2b838fbb2baa,986135
+data/gene_sets/MSigDB_Hallmark_2020.gmt,https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020,4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81,44235
